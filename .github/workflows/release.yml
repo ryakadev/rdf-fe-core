@@ -1,4 +1,4 @@
-name: Publish to NPM
+name: Publish Package to npmjs
 
 on:
     release:
@@ -7,9 +7,12 @@ on:
 jobs:
     publish:
         runs-on: ubuntu-latest
+        permissions:
+            contents: read
+            id-token: write
         steps:
             - name: Checkout repository
-              uses: actions/checkout@v3
+              uses: actions/checkout@v4
 
             - name: Setup Node.js
               uses: actions/setup-node@v4
@@ -20,7 +23,7 @@ jobs:
             - name: Install dependencies
               run: npm ci
 
-            - name: Build package
+            - name: Check build output
               run: npm run build-npm:check # Build & cek apakah outputnya sesuai
 
             - name: Publish to NPM

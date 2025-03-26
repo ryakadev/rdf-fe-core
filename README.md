@@ -1,37 +1,36 @@
-# RyakaDev Community - Frontend Core
+# 🌟 RyakaDev Community - Frontend Core
 
-## Overview
+## 📝 Overview
 
 This project is a frontend core library designed for building scalable and maintainable web applications.
 
-## Built With
+## 🛠️ Built With
 
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- Jest
-- Storybook
+- ⚡ Next.js
+- ⚛️ React
+- 🏷️ TypeScript
+- 🎨 Tailwind CSS
+- 🧪 Jest
+- 📖 Storybook
 
-## Features
+## ✨ Features
 
-- Modern React with Hooks
-- TypeScript for static typing
-- Tailwind CSS for utility-first styling
-- Jest for testing
-- Storybook for UI component development
-- ESLint and Prettier for code quality
+- ✅ TypeScript for static typing
+- 🎨 Tailwind CSS for utility-first styling
+- 🧪 Jest for testing
+- 📖 Storybook for UI component development
+- 🛡️ ESLint and Prettier for code quality
 
-## Getting Started
+## 🚀 Getting Started
 
-### Prerequisites
+### 📋 Prerequisites
 
 Ensure you have the following installed:
 
-- Node >=21.1.0
-- npm or yarn
+- 🟢 Node >=21.1.0
+- 📦 npm or yarn
 
-### Installation
+### 📥 Installation
 
 1. Clone the repo:
     ```sh
@@ -45,9 +44,9 @@ Ensure you have the following installed:
     yarn install
     ```
 
-### Usage
+### 🛠️ Usage
 
-#### Development
+#### 🧑‍💻 Development
 
 To start the development server:
 
@@ -57,7 +56,7 @@ npm run dev
 yarn dev
 ```
 
-#### Production
+#### 🌐 Production
 
 To build the application for production:
 
@@ -75,7 +74,7 @@ npm start
 yarn start
 ```
 
-#### Testing
+#### 🧪 Testing
 
 To run tests:
 
@@ -85,7 +84,7 @@ npm test
 yarn test
 ```
 
-#### Storybook
+#### 📖 Storybook
 
 To start Storybook:
 
@@ -95,7 +94,7 @@ npm run storybook
 yarn storybook
 ```
 
-#### Node Package (NPM)
+#### 📦 Node Package (NPM)
 
 - To build the package:
     ```sh
@@ -109,30 +108,30 @@ yarn storybook
     # or
     yarn build-npm:publish
     ```
-    Note: Ensure you are logged in to npm.
+    ⚠️ Note: Ensure you are logged in to npm.
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. 🍴 Fork the Project
+2. 🌱 Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. 💾 Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. 📤 Push to the Branch (`git push origin feature/AmazingFeature`)
+5. 🔁 Open a Pull Request
 
-## Top Contributors
+## 🏆 Top Contributors
 
 Thanks to these amazing contributors: [Top Contributors](https://github.com/ryakadev/rdf-fe-core/graphs/contributors)
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
-- [Next.js](https://nextjs.org/)
-- [React](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [ShadcnUI](https://ui.shadcn.com/docs)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Jest](https://jestjs.io/)
-- [React Testing Library](https://testing-library.com/)
-- [Storybook](https://storybook.js.org/)
-- [Conventional Commits](https://www.conventionalcommits.org/)
+- [⚡ Next.js](https://nextjs.org/)
+- [⚛️ React](https://reactjs.org/)
+- [🏷️ TypeScript](https://www.typescriptlang.org/)
+- [✨ ShadcnUI](https://ui.shadcn.com/docs)
+- [🎨 Tailwind CSS](https://tailwindcss.com/)
+- [🧪 Jest](https://jestjs.io/)
+- [🧪 React Testing Library](https://testing-library.com/)
+- [📖 Storybook](https://storybook.js.org/)
+- [📜 Conventional Commits](https://www.conventionalcommits.org/)

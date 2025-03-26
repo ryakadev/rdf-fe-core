@@ -1,11 +1,9 @@
-import { Button } from "@/components/ui/button";
-import HomeWidget from "./_widgets/home.widget";
+import HomeMainSection from "@/components/sections/home/main.section";
 
 export default function Home() {
 	return (
 		<div className="container m-auto">
-			<HomeWidget />
-			<Button>Click me</Button>
+			<HomeMainSection />
 		</div>
 	);
 }

@@ -12,8 +12,8 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
 	title: {
-		template: "%s | rie-labs Boilerplate",
-		default: "rie-labs Boilerplate",
+		template: "%s | Ryakadev Community",
+		default: "Ryakadev Community",
 	},
 	description: "Boilerplate for Next.js with TypeScript, ESLint, Prettier, Tailwind CSS, and more.",
 };

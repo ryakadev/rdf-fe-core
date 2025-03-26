@@ -1,6 +1,6 @@
 {
 	"name": "@ryakadev/fe-core",
-	"version": "3.0.0",
+	"version": "3.1.0",
 	"engines": {
 		"node": ">=21.1.0"
 	},
@@ -10,6 +10,10 @@
 		"dist",
 		"README.md"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ryakadev/rdf-fe-core.git"
+	},
 	"scripts": {
 		"prepare": "husky",
 		"dev": "next dev --turbopack",
@@ -44,7 +48,7 @@
 		"zod": "^3.24.2"
 	},
 	"peerDependencies": {
-		"next": "15.1.2",
+		"next": "^15.2.4",
 		"react": "^19.0.0",
 		"react-dom": "^19.0.0"
 	},

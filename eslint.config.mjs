@@ -14,7 +14,7 @@ const eslintConfig = [
 	...compat.plugins("prettier"),
 	...compat.extends("next/core-web-vitals", "next/typescript", "prettier"),
 	...compat.config({
-		ignorePatterns: ["tailwind.config.ts", "next.config.ts"],
+		ignorePatterns: ["tailwind.config.ts", "next.config.ts", "dist"],
 		rules: {
 			"no-console": "warn",
 			"prettier/prettier": [

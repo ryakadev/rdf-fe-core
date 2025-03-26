@@ -15,9 +15,13 @@ const listItems = [
 	"ESLint (Code Linter)",
 	"Lodash (Utility Library)",
 	"Lucid React (Icon library)",
+	"Zod (Schema Validation Library)",
+	"React Hook Form (Form Library)",
+	"Jose (JWT Library)",
+	"bcrypt (Password Hashing Library)",
 ];
 
-const HomeWidget = () => {
+const HomeMainSection = () => {
 	return (
 		<motion.div
 			initial={{ opacity: 0, y: -20 }}
@@ -105,4 +109,4 @@ const HomeWidget = () => {
 	);
 };
 
-export default HomeWidget;
+export default HomeMainSection;

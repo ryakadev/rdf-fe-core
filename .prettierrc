@@ -1,7 +1,6 @@
 {
 	"endOfLine": "auto",
 	"bracketSpacing": true,
-	"jsxBracketSameLine": false,
 	"tabWidth": 4,
 	"trailingComma": "all",
 	"useTabs": true,

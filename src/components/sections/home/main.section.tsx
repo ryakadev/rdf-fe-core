@@ -17,8 +17,6 @@ const listItems = [
 	"Lucid React (Icon library)",
 	"Zod (Schema Validation Library)",
 	"React Hook Form (Form Library)",
-	"Jose (JWT Library)",
-	"bcrypt (Password Hashing Library)",
 ];
 
 const HomeMainSection = () => {
